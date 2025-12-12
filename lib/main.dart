@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_practice/retrofit_test.dart';
+import 'package:flutter_practice/screen/retrofit_test.dart';
 
 void main() {
   runApp(const MyApp());
